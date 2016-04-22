@@ -1,0 +1,6 @@
+[push]
+	default = simple
+[user]
+	name = sonnix1123
+[credential]
+	helper = store
